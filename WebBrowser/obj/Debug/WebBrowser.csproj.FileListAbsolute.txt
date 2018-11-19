@@ -1,0 +1,10 @@
+C:\Users\Altug\source\repos\WebBrowser\WebBrowser\bin\Debug\WebBrowser.exe.config
+C:\Users\Altug\source\repos\WebBrowser\WebBrowser\bin\Debug\WebBrowser.exe
+C:\Users\Altug\source\repos\WebBrowser\WebBrowser\bin\Debug\WebBrowser.pdb
+C:\Users\Altug\source\repos\WebBrowser\WebBrowser\obj\Debug\WebBrowser.csprojAssemblyReference.cache
+C:\Users\Altug\source\repos\WebBrowser\WebBrowser\obj\Debug\WebBrowser.Properties.Resources.resources
+C:\Users\Altug\source\repos\WebBrowser\WebBrowser\obj\Debug\WebBrowser.csproj.GenerateResource.cache
+C:\Users\Altug\source\repos\WebBrowser\WebBrowser\obj\Debug\WebBrowser.csproj.CoreCompileInputs.cache
+C:\Users\Altug\source\repos\WebBrowser\WebBrowser\obj\Debug\WebBrowser.exe
+C:\Users\Altug\source\repos\WebBrowser\WebBrowser\obj\Debug\WebBrowser.pdb
+C:\Users\Altug\source\repos\WebBrowser\WebBrowser\obj\Debug\WebBrowser.Browser_Form.resources
